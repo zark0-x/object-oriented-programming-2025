@@ -1,6 +1,7 @@
 <!--Height-->
 <!--Italic-->
 # 2024-2025 Nesne Tabanlı Programlama Uygulamaları (C# Windows Form)
+### Bunlar okulumda yaptığım çalışmalardan bazıları. Kod hataları için özür dilerim!
 - [Timer Nesnesi ile 10 Saniyede Bir Renk Değiştiren Uygulama](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/app_that_changes_color_every_10_seconds)
 - [1233-257 Arası Asal Sayıları Gösteren Uygulama](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/prime_numbers_between_257_1233)
 - [Pisagor Hesaplayan Uygulama](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/pythagoras_calculator)
