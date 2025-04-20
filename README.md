@@ -11,3 +11,4 @@
 - [Restoran Sipariş Sistemi](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/restaurant_ordering_system)
 - [E-posta Doğrulama Aracı](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/email_validation_tool)
 - [Monitör Görüntüleyici](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/monitor_viewer)
+- [Sınav Günü Takibi](https://github.com/zark0-x/object-oriented-programming-2025/tree/main/exam_day_tracker)
